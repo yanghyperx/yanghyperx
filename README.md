@@ -74,7 +74,7 @@ caiu e se atualiza sozinho com versões assinadas.
 
 ## 📫 Contato
 
-- [EDITE] Discord, e-mail ou site, se quiser
+- Discord: y4ng. email: yanghyperx@icloud.com
 - Dúvidas e ideias sobre o True: [abra uma issue](https://github.com/yanghyperx/true-download-releases/issues)
 
 <p align="center"><sub>真 · feito com carinho</sub></p>
