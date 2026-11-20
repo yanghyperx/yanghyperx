@@ -17,10 +17,6 @@
 
 ## Oi, eu sou o YANG
 
-[EDITE] Duas ou três frases sobre você. Ex.: Crio ferramentas rápidas e bonitas. O **True** é o meu projeto
-principal: um gerenciador de downloads para Windows que construí do zero, do app ao sistema de contas, ranking e
-atualizações automáticas.
-
 ---
 
 ## ⭐ Projeto em destaque
